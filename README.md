@@ -6,7 +6,7 @@
  * =====================
  * Version: 1.0.0
  * Last Updated: 2025-01-03
- * Author: [Your Name]
+ * Author: [Abdullah CH]
  */
 ```
 
@@ -18,7 +18,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/project.git
+git clone https://github.com/codex-ab/project.git
 
 # Navigate to project directory
 cd project
@@ -219,4 +219,4 @@ const maintainer = {
 ```
 
 ---
-⭐️ From [your-username](https://github.com/codex-ab)
+⭐️ From [codex-ab](https://github.com/codex-ab)
